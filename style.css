@@ -9,7 +9,7 @@
 }
 .landing{
     min-height: 100vh;
-    background-image: url(huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg);
+    background-image: url(images/bg-desktop.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-color: var(--Violet);
@@ -66,7 +66,7 @@ p{
         height: 35.33px;
     }
     .landing{
-        background-image: url(/huddle-landing-page-with-single-introductory-section-master/images/bg-mobile.svg);
+        background-image: url(images/bg-mobile.svg);
     }
     
 }
